@@ -4,4 +4,16 @@
 
 # Chapter 1
 
-hello world!
+- hello world
+- hello cargo
+
+# Chapter 2
+
+- guessing_game
+
+# Chapter 3
+
+- variables
+- functions
+- branches
+- loops
