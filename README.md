@@ -17,3 +17,8 @@
 - functions
 - branches
 - loops
+
+# Chapter 4
+
+- owner
+- slice
