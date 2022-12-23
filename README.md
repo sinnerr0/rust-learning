@@ -22,3 +22,9 @@
 
 - owner
 - slice
+
+# Chapter 5
+
+- struct
+- implementation
+- associated functions
