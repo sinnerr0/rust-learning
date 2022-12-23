@@ -28,3 +28,9 @@
 - struct
 - implementation
 - associated functions
+
+# Chapter 6
+
+- enums
+- Option
+- match, if let: pattern matching
