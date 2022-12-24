@@ -34,3 +34,9 @@
 - enums
 - Option
 - match, if let: pattern matching
+
+# Chapter 7
+
+- module
+- crate
+- use
