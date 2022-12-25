@@ -40,3 +40,9 @@
 - module
 - crate
 - use
+
+# Chapter 8
+
+- vector
+- string
+- hashmap
