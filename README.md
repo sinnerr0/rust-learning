@@ -46,3 +46,10 @@
 - vector
 - string
 - hashmap
+
+# Chapter 9
+
+- panic
+- expect
+- unwrap
+- Result
