@@ -3,6 +3,20 @@
 version = 3
 
 [[package]]
+name = "add_one"
+version = "0.1.0"
+dependencies = [
+ "rand",
+]
+
+[[package]]
+name = "adder"
+version = "0.1.0"
+dependencies = [
+ "add_one",
+]
+
+[[package]]
 name = "autocfg"
 version = "0.1.8"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -24,6 +38,14 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "bef38d45163c2f1dde094a7dfd33ccf595c92905c8f8f4fdc18d06fb1037718a"
 
 [[package]]
+name = "branches"
+version = "0.1.0"
+
+[[package]]
+name = "closure"
+version = "0.1.0"
+
+[[package]]
 name = "cloudabi"
 version = "0.0.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -33,10 +55,34 @@ dependencies = [
 ]
 
 [[package]]
+name = "collection"
+version = "0.1.0"
+
+[[package]]
+name = "docs"
+version = "0.1.0"
+
+[[package]]
+name = "enums"
+version = "0.1.0"
+
+[[package]]
+name = "error"
+version = "0.1.0"
+
+[[package]]
 name = "fuchsia-cprng"
 version = "0.1.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "a06f77d526c1a601b7c4cdd98f54b5eaabffc14d5f2f0296febdc7f357c6d3ba"
+
+[[package]]
+name = "functions"
+version = "0.1.0"
+
+[[package]]
+name = "generic"
+version = "0.1.0"
 
 [[package]]
 name = "guessing_game"
@@ -46,10 +92,46 @@ dependencies = [
 ]
 
 [[package]]
+name = "hello_cargo"
+version = "0.1.0"
+
+[[package]]
+name = "iterator"
+version = "0.1.0"
+
+[[package]]
 name = "libc"
-version = "0.2.137"
+version = "0.2.139"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "fc7fcc620a3bff7cdd7a365be3376c97191aeaccc2a603e600951e452615bf89"
+checksum = "201de327520df007757c1f0adce6e827fe8562fbc28bfd9c15571c66ca1f5f79"
+
+[[package]]
+name = "lifetime"
+version = "0.1.0"
+
+[[package]]
+name = "loops"
+version = "0.1.0"
+
+[[package]]
+name = "minigrep"
+version = "0.1.0"
+
+[[package]]
+name = "module"
+version = "0.1.0"
+
+[[package]]
+name = "option"
+version = "0.1.0"
+
+[[package]]
+name = "owner"
+version = "0.1.0"
+
+[[package]]
+name = "pattern_matching"
+version = "0.1.0"
 
 [[package]]
 name = "rand"
@@ -165,6 +247,30 @@ checksum = "678054eb77286b51581ba43620cc911abf02758c91f93f479767aed0f90458b2"
 dependencies = [
  "rand_core 0.3.1",
 ]
+
+[[package]]
+name = "release_profile"
+version = "0.1.0"
+
+[[package]]
+name = "slice"
+version = "0.1.0"
+
+[[package]]
+name = "structure"
+version = "0.1.0"
+
+[[package]]
+name = "test_"
+version = "0.1.0"
+
+[[package]]
+name = "trait_"
+version = "0.1.0"
+
+[[package]]
+name = "variables"
+version = "0.1.0"
 
 [[package]]
 name = "winapi"
