@@ -67,3 +67,8 @@
 - test with attributes(should_panic, ignore)
 - unit test
 - integration test
+
+# Chapter 12
+
+- io(stdout, stderr)
+- env
