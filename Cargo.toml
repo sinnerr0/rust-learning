@@ -27,4 +27,5 @@ members = [
     "add_one",
     "adder",
     "pointer",
+    "concurrent",
 ]

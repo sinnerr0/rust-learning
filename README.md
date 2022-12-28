@@ -88,6 +88,14 @@
 
 - pointer
   - Deref
-- Box<T>
-- Rc<T>
-- RefCell<T>
+  - Drop
+- smart pointer
+  - Box<T>
+  - Rc<T>
+  - RefCell<T>
+
+# Chapter 16
+
+- thread
+- channel
+- Mutext<T>
