@@ -2,9 +2,7 @@ use minigrep::Config;
 use std::{env, process};
 
 fn main() {
-    let args: Vec<String> = env::args().collect();
-    println!("args: {:?}", args);
-    let config = Config::new(&args).unwrap_or_else(|err| {
+    let config = Config::new(env::args()).unwrap_or_else(|err| {
         eprintln!("인수를 구문분석하는 동안 오류가 발생되었습니다: {}", err);
         process::exit(1);
     });
