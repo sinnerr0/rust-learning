@@ -29,4 +29,5 @@ members = [
     "pointer",
     "concurrent",
     "oop",
+    "matching",
 ]
