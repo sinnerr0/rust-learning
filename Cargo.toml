@@ -28,4 +28,5 @@ members = [
     "adder",
     "pointer",
     "concurrent",
+    "oop",
 ]
