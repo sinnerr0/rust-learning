@@ -33,4 +33,5 @@ members = [
     "advanced",
     "hello_macro",
     "hello_macro_derive",
+    "web_server",
 ]
