@@ -30,4 +30,7 @@ members = [
     "concurrent",
     "oop",
     "matching",
+    "advanced",
+    "hello_macro",
+    "hello_macro_derive",
 ]

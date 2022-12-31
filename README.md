@@ -114,3 +114,15 @@
 - ignore
 - match guard
 - binding
+
+# Chapter 19
+
+- raw_pointer
+- unsafe
+- trait overroading
+- trait identify
+- super trait
+- newtype pattern
+- function pointer
+- return closure
+- macro
